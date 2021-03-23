@@ -10,7 +10,7 @@ app.use(function (req, res, next) {
   next();
 });
 
-var routes = require('./api/routes/index');
+var routes = require('./app/routes/index');
 routes(app);
 
 
