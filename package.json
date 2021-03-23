@@ -1,0 +1,14 @@
+{
+  "name": "metamask-accounts",
+  "version": "0.0.1",
+  "description": "A proof of concept account system which associates a metamask address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
